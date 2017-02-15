@@ -2,7 +2,7 @@
 A basic starter with the following: 
 ## client:
 * Angular
-* AngularUI
+* Angular Material
 * browserify
 * gulp
 
